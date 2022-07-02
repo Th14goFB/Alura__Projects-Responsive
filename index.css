@@ -208,7 +208,7 @@ li:nth-child(n + 1){
   margin-top:30px;
 }
 
-@media screen and (max-width:375px){
+@media screen and (min-width:375px){
   body{
     background-image:none;
   }
