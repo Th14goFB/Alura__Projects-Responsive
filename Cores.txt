@@ -1,0 +1,7 @@
+  --branco-principal:#FFFFFF;
+  --cinza-secundario: #C0C0C0;
+  --botão-azul:#167BF7;
+  --cor-de-fundo:#00030C;
+  --fonte-principal:'Inter';
+  --hover-azul:#0f50a0;
+  --active-azul:#082e61.
